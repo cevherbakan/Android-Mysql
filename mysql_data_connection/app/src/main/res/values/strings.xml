@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mysql_data_connection</string>
+    <string name="url">http://192.168.1.36/and_conn/index.php</string>
+</resources>
